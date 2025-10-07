@@ -16,14 +16,15 @@
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  background-color: cornflowerblue;
+  background-color: red;
   color: white;
 }
 
 nav {
   width: 100%;
-  background-color: tan;
-  color: navy;
+  font-size: 20px; /* font size - add*/
+  background-color: chocolate; /* color changed*/ 
+  color: wheat; /* color changed*/
   position: fixed;
   top: 0;
   z-index: 2;
@@ -64,7 +65,7 @@ p {
 }
 
 /* mobile screen
-@media screen and (min-width: 370px) and (max-width: 426px) {
+@media screen and (min-width: 370px) and (max-width: 426px) { */
   /* background color for navbar */
   /* nav, {
     background-color: green;
@@ -74,7 +75,7 @@ p {
   /* nav > ul {
     flex-direction: column;
     }
-} */ 
+} 
 
 /* @media screen and (min-width: 426px) and (max-width: 768px){
   nav, {
