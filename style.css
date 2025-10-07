@@ -54,7 +54,8 @@ p {
 }
 
 .title {
-  background-color: khaki;
+  background-color: purple ;
+  color: aqua;
   padding: 10px;
   border: 1px solid black;
   font-size: 24px;
